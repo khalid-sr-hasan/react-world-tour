@@ -1,8 +1,7 @@
-# React + Vite
+# React World Tour Country
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based web application to explore and manage a list of countries from around the world.
 
-Currently, two official plugins are available:
+## Live Website
+[Visit the live website here](https://react-world-tour-country.surge.sh/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
